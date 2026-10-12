@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.web.unduhvideo.twa",
+      "sha256_cert_fingerprints":
+        ["7C:18:63:02:0A:5B:2F:D8:55:CE:83:8A:EF:16:0F:66:B8:00:87:39:BB:6A:AB:73:9A:35:27:63:A2:D3:53:E5"]
+    }
+  }
+]
