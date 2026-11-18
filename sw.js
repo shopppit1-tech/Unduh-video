@@ -1,15 +1,17 @@
-const CACHE_NAME = "unduh-video-v3";
+const CACHE_NAME = "unduh-video-v4";
 
 const APP_FILES = [
   "./",
   "./index.html",
+  "./about.html",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
   "./privacy.html",
   "./terms.html",
   "./disclaimer.html",
-  "./contact.html"
+  "./contact.html",
+  "./ads.txt"
 ];
 
 self.addEventListener("install", event => {
